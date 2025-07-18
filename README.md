@@ -1,6 +1,6 @@
 # Hi there! I'm Gabriel Guedes 👋
 
-!([image1](https://github.com/GabrielGuedes02/Apresenta-o-Pessoal/commit/0aae4f2859e53c37756ed5d4241542e2e6c8a96e))
+![Minha Foto](Eu.jpg)
 
 Welcome to my profile!  
 I'm an Economics student passionate about data analysis focused on politics and society. I'm always looking for new ways to understand the world through quantitative analysis and technology.
